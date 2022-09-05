@@ -1,0 +1,21 @@
+{
+  "legacy_addon_id": "",
+  "title": "OpenSearch",
+  "description": "(ext_167e279a)",
+  "version_id": 1000870,
+  "version_string": "1.0.8",
+  "dev": "z17 Dev",
+  "dev_url": "https://github.com/cmfstore/xenforo-opensearch",
+  "support_url": "https://github.com/cmfstore/xenforo-opensearch/issues",
+  "require": {
+    "XF": [
+      2010070,
+      "XenForo 2.1.0+"
+    ],
+    "php": [
+      "7.3.0",
+      "PHP 7.3.0+"
+    ]
+  },
+  "icon": "fa-search"
+}

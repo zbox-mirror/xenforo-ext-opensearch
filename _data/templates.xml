@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="public"
+            title="ext_167e279a_view"
+            version_id="1000470"
+            version_string="1.0.4"><![CDATA[<xf:if is="$xf.options.ext_167e279a_path is not empty">
+  <link rel="search" type="application/opensearchdescription+xml" href="{$xf.options.boardUrl}/{$xf.options.ext_167e279a_path}" title="{$xf.options.boardTitle}" />
+</xf:if>]]></template>
+</templates>

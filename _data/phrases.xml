@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.ext_167e279a_path" version_id="1000070" version_string="1.0.0"><![CDATA[Путь до OpenSearch XML]]></phrase>
+  <phrase title="option_explain.ext_167e279a_path" version_id="1000070" version_string="1.0.0"><![CDATA[Укажите путь до файла OpenSearch XML (<code>ext.opensearch.xml</code>), находящегося в директории форума.]]></phrase>
+  <phrase title="option_group.ext_167e279a" version_id="1000070" version_string="1.0.0"><![CDATA[OpenSearch]]></phrase>
+  <phrase title="option_group_description.ext_167e279a" version_id="1000070" version_string="1.0.0"><![CDATA[Параметры конфигурации OpenSearch.]]></phrase>
+</phrases>

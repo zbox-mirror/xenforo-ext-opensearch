@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="ext_167e279a_path" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[ext.opensearch.xml]]></default_value>
+    <relation group_id="ext_167e279a" display_order="10"/>
+  </option>
+</options>

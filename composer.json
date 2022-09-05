@@ -1,0 +1,43 @@
+{
+  "name": "cmfstore/xenforo-opensearch",
+  "type": "xenforo-extension",
+  "description": "",
+  "license": "MIT",
+  "homepage": "https://github.com/cmfstore",
+  "keywords": [
+    "xenforo",
+    "search",
+    "opensearch"
+  ],
+  "authors": [
+    {
+      "name": "z17 Dev",
+      "email": "mail@z17.dev",
+      "homepage": "https://z17.dev/",
+      "role": "Developer"
+    },
+    {
+      "name": "z17 CX",
+      "email": "mail@z17.cx",
+      "homepage": "https://z17.cx/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/cmfstore/xenforo-opensearch/issues",
+    "source": "https://github.com/cmfstore/xenforo-opensearch"
+  },
+  "require": {
+    "composer/installers": "^1.9"
+  },
+  "autoload": {
+    "psr-4": {}
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false
+  },
+  "extra": {
+    "installer-name": "ext_167e279a"
+  }
+}
