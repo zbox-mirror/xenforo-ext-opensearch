@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/xenforo-opensearch",
+  "name": "cmfstore/xenforo-ext-opensearch",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
@@ -24,8 +24,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/xenforo-opensearch/issues",
-    "source": "https://github.com/cmfstore/xenforo-opensearch"
+    "issues": "https://github.com/cmfstore/xenforo-ext-opensearch/issues",
+    "source": "https://github.com/cmfstore/xenforo-ext-opensearch"
   },
   "require": {
     "composer/installers": "^1.9"

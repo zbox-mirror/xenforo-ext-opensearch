@@ -13,7 +13,7 @@
 
 ## Install
 
-1. [Загрузить](https://github.com/cmfstore/xenforo-opensearch/tags) архив с последней версией расширения.
+1. [Загрузить](https://github.com/cmfstore/xenforo-ext-opensearch/tags) архив с последней версией расширения.
 2. Распаковать содержимое архива в `/src/addons/CMFStore/ext_167e279a/`, сохраняя структуру директорий.
 3. Зайти в **AdminCP**, далее *Add-ons*, и установить необходимое расширение.
 4. Создать файл `ext.opensearch.xml` в корне форума со следующим содержимым:
@@ -48,6 +48,6 @@
 
 ## Update
 
-1. [Загрузить](https://github.com/cmfstore/xenforo-opensearch/tags) архив с новой версией расширения.
+1. [Загрузить](https://github.com/cmfstore/xenforo-ext-opensearch/tags) архив с новой версией расширения.
 2. Распаковать содержимое архива в `/src/addons/CMFStore/ext_167e279a/`, сохраняя структуру директорий, заменяя существующие файлы и папки.
 3. Зайти в **AdminCP**, далее *Add-ons*, и обновить необходимое расширение.
