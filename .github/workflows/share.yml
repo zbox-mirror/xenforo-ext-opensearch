@@ -13,6 +13,7 @@ jobs:
       - name: "Sharing GitHub repository tag to VK"
         uses: ghastore/vk@main
         with:
+          type: "tag"
           gh_api: "https://api.github.com/repos/${{ github.repository }}"
           gh_token: "${{ secrets.BOT_GITHUB_TOKEN }}"
           vk_token: "${{ secrets.APP_VK_TOKEN }}"
