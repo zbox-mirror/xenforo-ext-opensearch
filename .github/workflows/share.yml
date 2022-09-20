@@ -7,6 +7,7 @@ on:
 
 jobs:
   post:
+    if: ${{ github.repository_owner == 'zbox' }}
     runs-on: ubuntu-latest
     name: "VK"
     steps:
